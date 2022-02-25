@@ -5,6 +5,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>discoveryServer</module>
+		<module>apiGateway</module>
 	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
