@@ -27,16 +27,6 @@
 			<artifactId>spring-cloud-starter-circuitbreaker-resilience4j</artifactId>
 			<version>2.1.1</version>
 		</dependency>
-		<dependency>
-			<groupId>org.apache.xmlgraphics</groupId>
-			<artifactId>batik-svggen</artifactId>
-			<version>1.14</version>
-		</dependency>
-		<dependency>
-			<groupId>org.apache.xmlgraphics</groupId>
-			<artifactId>batik-dom</artifactId>
-			<version>1.14</version>
-		</dependency>
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
