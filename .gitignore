@@ -59,8 +59,13 @@ build/
 .idea/**/dbnavigator.xml
 
 # Gradle
-.idea/**/gradle.xml
-.idea/**/libraries
+.gradle
+/build
+/buildSrc/build
+/buildSrc/subprojects/*/build
+/subprojects/*/build
+/subprojects/docs/src/samples/*/*/build
+/subprojects/internal-android-performance-testing/build-android-libs
 
 # Gradle and Maven with auto-import
 # When using Gradle or Maven with auto-import, you should exclude module files,
